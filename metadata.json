@@ -1,0 +1,6 @@
+{
+  "name": "HueLift",
+  "description": "An AI-powered color extraction tool that extracts gorgeous color palettes from logos and images, provides design composition previews, and generates detailed aesthetic analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
